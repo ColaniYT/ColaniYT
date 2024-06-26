@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Christopher</h1>
 <h3 align="center">A Software developer primarily working in Java, C++ and TypeScript.</h3>
 
-- 🔭 I’m currently working on **OpenGuessr**
+- 🔭 I’m currently working on **Nothing**
 
 - 🌱 I’m currently learning **the GO programming language**
 
 - 💬 Ask me about **Spring Boot, Unity & Unreal**
-
-- 📫 How to reach me **colaniyt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
